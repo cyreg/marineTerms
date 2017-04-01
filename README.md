@@ -14,9 +14,9 @@ L'application doit contenir :
 
 1) Trouver un format correct pour créer le dictionnaire (en pensant à des évolutions genre ajouter des langues...)
   json-base de donnée ?
-3) Créer le ficher json ou la bdd ?
-2) faire une page simple HTML pour le canevas.
-4) faire une requête simple qui renvoie le mot traduit existant.
-5) ajouter de l'auto-complétion ?
+3) Créer le ficher json ou la bdd ? (un format avec un exemple qui va bien serait le bienvenu !) 
+2) faire une page simple HTML pour le canevas. (ça c'est bon)
+4) faire une requête simple qui renvoie le mot traduit existant. (ça aussi)
+5) ajouter de l'auto-complétion ? 
 6) ajouter un champ demander une traduction qui envoie un mail aux traducteurs potentiels avec la demande ?
 7) contrôler le monde...
